@@ -1,0 +1,5 @@
+New Account= 17451
+Account API Response = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><account><id>17451</id><customerId>13988</customerId><type>CHECKING</type><balance>100.00</balance></account>
+Customer ID = 13988
+JSON files updated
+Account Overview

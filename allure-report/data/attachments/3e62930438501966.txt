@@ -1,0 +1,4 @@
+customerId = 16652
+fromAccountId = 21669
+Status = 400
+Could not create new account for customer 16652 from account 21669
